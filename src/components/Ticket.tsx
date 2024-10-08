@@ -58,7 +58,7 @@ export default function Ticket({ showTicket }: { showTicket: boolean }) {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ delay: 0.6, duration: 0.5 }}
                 >
-                  <span className="relative z-10">$2,000 MXN</span>
+                  <span className="relative z-10">$2,200 MXN</span>
                   <motion.div
                     className="absolute inset-0 bg-white opacity-20"
                     initial={{ x: "-100%" }}
